@@ -123,5 +123,4 @@ of zit kggd zitkt qkt ygxk ortfzoeqs wqlatzwqssl qfr zvg ortfzoeqs yggzwqssl. fg
 ## 古典密码+base32
 
 题目描述:MCJIJSGKP=ZZYXZXRMU=W3YZG3ZZ==G3HQHCUS==
-
-看到有6个=并且所有字母为大写字母,数字在2-7的范围内联想到base32，先采用栅栏解密得到MZWGCZ33JYYHIXZQJZGHSX3CGRZUKMZSPU====== ,接下来利用base32解密得到flag{N0t_0NLy_b4sE32}
+看到有6个=并且所有字母为大写字母，数字在2-7的范围内联想到base32，先采用栅栏解密得到MZWGCZ33JYYHIXZQJZGHSX3CGRZUKMZSPU======，接下来使用base32解密得到flag{N0t_0NLy_b4sE32}
